@@ -1,0 +1,26 @@
+.banner{
+background-image: url(../../images/voiturebanner.jpg);
+color: white;
+padding:  20px;
+background-size: cover;
+background-position: center;
+}
+
+.banner h1 {
+	font-size: 80px;
+	text-align: center;
+}
+
+.banner p {
+	font-size: 50px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+.débutdelocation{
+	float: left;
+}
+
+.findelocation{
+	float: right;
+}

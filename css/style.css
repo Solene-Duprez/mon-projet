@@ -1,0 +1,79 @@
+@import url("components/banner.css");
+@import url('https://fonts.googleapis.com/css2?family=Lato:100,300,400,900');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,300,500,900');
+@import url("components/main.css");
+@import url("components/footer.css");
+@import url("components/modeles.css");
+@import url("components/container.css");
+@import url("components/card.menu.css");
+
+body {
+	margin: 0;
+	padding: 0;
+	background: white;
+	font-family: 'lato';
+}
+
+.inner{
+	width: 100%;
+	margin; auto;
+}
+
+h2{
+	text-align: center;
+	color:#94B695;
+	text-transform: uppercase;
+
+}
+
+h3{
+	text-align: right;
+	color:#94B695;
+	text-transform: uppercase;
+	margin: 70px;
+}
+
+h4{
+	text-align: left;
+	color:#94B695;
+	text-transform: uppercase;
+	margin: 70px;
+}
+
+.button {
+	background-color: whitesmoke;
+	color:  black;
+	padding: 10px 24px;
+	border-radius: 6px;
+	font-weight: bolder;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+a{
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+}
+
+h5{
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+
+h6{
+	color:  white;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+

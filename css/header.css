@@ -1,0 +1,49 @@
+.menu{
+	background: #94B695;
+	height: 66px;
+	width: 100%;
+	line-height: 66px;
+}
+
+.m-left{
+	float: left;
+}
+
+.m-right{
+	float: right;
+}
+
+.logo{
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-family: 'roboto';
+	font-weight: 900;
+	font-size: 35px;
+	letter-spacing: 1px;
+}
+
+.m-left h1 {
+	padding-left: 12px;
+}
+
+.m-right{
+	text-align: right;
+}
+
+.m-link{
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 400;
+	padding: 0;
+	margin: 0 10px;
+	}
+
+
+
+
+
+
+
+

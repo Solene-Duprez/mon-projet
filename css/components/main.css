@@ -1,0 +1,65 @@
+.main {
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.main .content .card{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+.main .content .card .voitures{
+	display:  flex;
+	margin-bottom: 20px;
+}
+
+.main .content .card .left {
+	flex: 0 0 30%;
+	padding: 20px;
+	background-color: #94B695;
+	color: white;
+}
+
+.main .content .card.right {
+	flex: 0 0 50%;
+}
+
+.main .content .card img {
+	height: 300px;
+	width: 390px;
+	margin-top: 0px;
+}
+
+@media screen and (max-width: 800px){
+	.main .card{
+		margin: 10px;
+	}
+
+	.main .content .card .right .img{
+		height :200px;
+		width : 100%;
+		margin-top: 0px;
+	}
+
+	.main .content .card{
+		display: block;
+	}
+}
+
+h5 {
+	font-size: 30px;
+	margin: auto;
+}
+
+.card .left{
+	display: flex;
+	flex-direction:  column;
+	align-items: center;
+}
+
+
+
